@@ -27,3 +27,6 @@ E:\xXMASBROOXx\Pelajaran\PPB\Project\unity\ProjectGameUnity\Temp\bin\Debug\Unity
 E:\xXMASBROOXx\Pelajaran\PPB\Project\unity\ProjectGameUnity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 E:\xXMASBROOXx\Pelajaran\PPB\Project\unity\ProjectGameUnity\obj\Debug\Assembly-CSharp.dll
 E:\xXMASBROOXx\Pelajaran\PPB\Project\unity\ProjectGameUnity\obj\Debug\Assembly-CSharp.pdb
+D:\UnityXIR5\ProjectGameUnity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\UnityXIR5\ProjectGameUnity\obj\Debug\Assembly-CSharp.dll
+D:\UnityXIR5\ProjectGameUnity\obj\Debug\Assembly-CSharp.pdb
